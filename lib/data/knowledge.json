@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "id": "profile-001",
+      "timestamp": "2026-04-20T00:00:00Z",
+      "category": "profile",
+      "content": "Rodrigo De La Torre es CEO y fundador de Orion AI Consulting y de Orion AI Society. Nació en Morelia, México. Opera entre Morelia, MX y Panamá, PA. Su metodología propia es Fractalidad™. Lema: Pro Mundi Beneficio. Es también fundador de la Fundación SEAAF (South East Astro AI Foundation). Tiene más de 100,000 suscriptores en YouTube (@RodrigoDeLaTorre-AI). Habla español e inglés.",
+      "metadata": { "source": "portfolio", "priority": "high" }
+    },
+    {
+      "id": "services-001",
+      "timestamp": "2026-04-20T00:00:00Z",
+      "category": "services",
+      "content": "Orion AI Consulting ofrece 4 servicios principales: 1) Automatización de Procesos — Sistemas N8N de grado industrial: CRM, cotización, onboarding, soporte, reporting. Stack: N8N, Zapier, Make, APIs custom. 2) Consultoría en Desarrollo de Software — Arquitectura técnica, selección de stack, due diligence, auditoría de código. Stack: Arquitectura, Code review, Stack, DevOps IA. 3) Creación de Productos IA — De idea a MVP funcional en 30-60 días. Chatbots, copilotos, agentes verticales, plataformas de contenido. Stack: MVPs, Copilotos, RAG, Multi-agente. 4) Desarrollo Estratégico con IA — Sesiones ejecutivas 1:1 y grupales para directores y founders. Stack: C-Suite, Roadmap, Cambio cultural, KPIs IA.",
+      "metadata": { "source": "portfolio", "priority": "high" }
+    },
+    {
+      "id": "pricing-001",
+      "timestamp": "2026-04-20T00:00:00Z",
+      "category": "pricing",
+      "content": "Tiers de Orion AI Consulting: TIER I - Diagnóstico Fractal: auditoría 360° de operación, mapa de procesos automatizables y plan priorizado por ROI. Duración: 2 semanas, entregable: reporte ejecutivo. TIER II (RECOMENDADO) - Implementación Dirigida: construcción de 3-5 sistemas críticos, integración y traspaso al equipo interno con documentación. Duración: 60-90 días, equipo dedicado. TIER III - Socio Estratégico: retainer mensual como CTO-IA fraccional, mentoría ejecutiva y desarrollo continuo. Duración: 12+ meses, equity opcional. Promesa: ROI medible en 90 días o menos.",
+      "metadata": { "source": "portfolio", "priority": "high" }
+    },
+    {
+      "id": "society-001",
+      "timestamp": "2026-04-20T00:00:00Z",
+      "category": "community",
+      "content": "Orion AI Society es una comunidad educativa de élite para profesionales hispanohablantes. Está en Skool: skool.com/orion-ai-society. Precio desde $29 USD/mes. Métricas: 104+ miembros activos, 70.6% retención mensual (el doble del promedio de la industria), 12 módulos. 4 Pilares: I. Fundamentos de IA (Prompt engineering, ingeniería de contexto), II. Automatizaciones N8N (desde primer flujo hasta agentes autónomos), III. Vibe Coding (crear software sin ser ingeniero: Cursor, Claude Code, Windsurf), IV. Generación de Contenido (video con IA, fábricas de contenido). Bonus Track: Negocio (Freelancer → Agencia → Producto → Incubadora). Respaldada por Fundación SEAAF.",
+      "metadata": { "source": "portfolio", "priority": "high" }
+    },
+    {
+      "id": "methodology-001",
+      "timestamp": "2026-04-20T00:00:00Z",
+      "category": "methodology",
+      "content": "Fractalidad™ es la metodología propia de Rodrigo. Premisa: los principios que gobiernan una buena conversación con un LLM son los mismos que gobiernan una arquitectura de agentes, y esos gobiernan una organización que opera con IA. Capas (de adentro hacia afuera): PROMPT → FLUJO → AGENTE → SISTEMA → ORGANIZACIÓN. Los 5 principios: i. Patrón antes que herramienta. ii. Contexto antes que prompt. iii. Sistema antes que agente. iv. Operación antes que estrategia. v. Humano antes que máquina. Cita: 'El arquitecto ve el edificio antes de la primera piedra. El albañil solo ve la piedra.'",
+      "metadata": { "source": "portfolio", "priority": "high" }
+    },
+    {
+      "id": "projects-001",
+      "timestamp": "2026-04-20T00:00:00Z",
+      "category": "projects",
+      "content": "Proyectos destacados de Orion AI Consulting: Case 01 - Plataforma educativa nacional (B2G, Panamá): infraestructura IA para alfabetización digital en Panamá con Fundación SEAAF y Microsoft. Stack: Azure, n8n, React. Impacto: +10k ciudadanos/año. Case 02 - Agencia de marketing (B2B, PYME): rediseño de operación con 7 agentes N8N. ROI positivo en mes 2. Stack: n8n, Claude, Airtable. Impacto: -40% horas operativas. Case 03 - Copiloto legal: MVP de agente RAG para jurisprudencia mexicana. De idea a producto en 45 días. Stack: Claude, Pinecone, Next.js. Impacto: MRR $4.2k desde mes 3. Case 04 - Fábrica de contenido: 30 piezas/semana desde una sesión de grabación. Stack: Creatomate, ElevenLabs, n8n. Impacto: 10× output creativo.",
+      "metadata": { "source": "portfolio", "priority": "medium" }
+    },
+    {
+      "id": "contact-001",
+      "timestamp": "2026-04-20T00:00:00Z",
+      "category": "contact",
+      "content": "Contacto de Rodrigo De La Torre: Email: rodrigo@orionai.consulting. YouTube: @RodrigoDeLaTorre-AI (youtube.com/@RodrigoDeLaTorre-AI). Comunidad: skool.com/orion-ai-society. Base: Morelia, México ↔ Panamá. Para agendar una llamada de diagnóstico, usar el email o el formulario de contacto del portafolio.",
+      "metadata": { "source": "portfolio", "priority": "high" }
+    }
+  ]
+}
